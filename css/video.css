@@ -1,0 +1,41 @@
+.videoM {
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+}
+.center-video {
+    margin-top: 50px;
+    text-align: center;
+}
+.center-video h1 {
+    margin-top: 200px;
+    color: white;
+}
+.center-video img {
+    width: 40px;
+    padding-left: 10px;
+    height: 40px;
+}
+.center-video h4 {
+    color: white;
+    width: 300px;
+}
+.vid-info {
+    justify-content: space-evenly;
+    display: flex;
+    text-align: center;
+}
+.btn-app {
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+    width: 100px;
+    text-align: center;
+    transition: background-color 0.3s linear;
+    height: 26px;
+    background-color: rebeccapurple;
+}
+.btn-app:hover {
+    background-color: black;
+
+}
